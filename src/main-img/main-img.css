@@ -1,0 +1,26 @@
+.main-img{
+    margin-top: 4%;
+    margin-bottom: 15%;
+    background-image: url('../img/unsplash_S-llxYh3GzI.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.main-img-title{
+    font-weight: 700;
+    font-size: 64px;
+    text-align: center;
+}
+.main-img__text{
+    text-align: center;
+    font-weight: 700;
+font-size: 24px;
+}
+.main-img-block{
+    padding: 15%;
+}

@@ -1,0 +1,50 @@
+.map__block{
+    margin-bottom: 38px;
+    background: #018ABE;
+    border-radius: 10px;
+    width: 400px;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 50px;
+    flex-direction: column;
+}
+.map__wrapper{
+    margin-top: 17%;
+}
+.map__map{
+    border-radius: 20px;
+}
+.map__blocks{
+    margin-left: 50px;
+}
+.map-title{
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+.map__icon-text{
+    font-weight: 400;
+    font-size: 14px;
+}
+.map__icon-img{
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+}
+.map-btn{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #FFFFFF;
+    border-radius: 3px;
+    width: 155px;
+    color: #018ABE;
+    font-weight: 600;
+    border: none;
+    font-size: 13px;
+    height: 36px;
+}

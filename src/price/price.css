@@ -1,0 +1,21 @@
+.price__block{
+    margin-top: 12%;
+}
+.price-info{
+    margin-bottom: 8%;
+}
+.price-text{
+    font-weight: 400;
+    font-size: 18px;
+}
+.sum-text{
+    font-weight: 700;
+font-size: 18px;
+}
+.price-info-img-text{
+    font-weight: 700;
+    font-size: 21px;
+}
+.price__info-block{
+    margin-top: 6%;
+}

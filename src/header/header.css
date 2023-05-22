@@ -4,3 +4,24 @@
 .navbar-brand{
 	color: #ffffff;
 }
+.button{
+	background-color: #018ABE;
+	color: #ffffff;
+	width: 15%;
+	padding: 10PX 0PX;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 3px;
+	cursor: pointer;
+}
+.nav-item{
+	margin: 0 10px;
+}
+.nav-link:focus {
+
+}
+.navbar-nav{
+	--bs-nav-link-hover-color: #018ABE !important;
+	
+}

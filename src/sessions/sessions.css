@@ -1,0 +1,48 @@
+.title-cap{
+    background: #018ABE;
+    border-radius: 0px 50px;
+    width: 28px;
+    height: 14px;
+    margin: 0 40px;
+}
+.sessions-contianer{
+    margin-bottom: 10%;
+}
+.rot{
+    border-radius: 50px 0px;
+}
+.sessions-title{
+    margin-bottom: 10%;
+   
+}
+.sessions-block{
+    margin: 15px 15px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+    padding: 10px 30px;
+    width: 400px;
+    height: 250px;
+    background-image: url(../img/sessions-img.png);
+}
+.sessions-block-text{
+    font-weight: 700;
+    font-size: 24px;
+}
+.sessions-block-standart{
+    width: 400px;
+    height: 535px;
+    border-radius: 10px;
+}
+.sessions-blocks{
+
+    display: flex;
+
+    justify-content: space-between;
+}
+.sessions-second-block{
+    flex-wrap: wrap;
+
+}
